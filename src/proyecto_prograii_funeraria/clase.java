@@ -13,6 +13,7 @@ public class clase {
 
     public clase() {
         System.out.println("pureba clase");
+        System.out.println("funciona");
     }
     
    
