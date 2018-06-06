@@ -10,5 +10,8 @@ package proyecto_prograii_funeraria;
  * @author Alejandro
  */
 public class prueba {
-    
+    private static void method() {
+        System.out.println("gujas"); 
+    }
+     
 }
