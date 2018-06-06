@@ -10,5 +10,10 @@ package proyecto_prograii_funeraria;
  * @author Alejandro
  */
 public class prueba {
+    public static void main(String[] args) {
+        System.out.println("hduhw");
+    }
+        
+    
     
 }
