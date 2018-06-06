@@ -11,7 +11,7 @@ package proyecto_prograii_funeraria;
  */
 public class prueba {
     public static void main(String[] args) {
-        System.out.println("hduhw");
+        System.out.println("hduhfgfgfgw");
     }
         
     
